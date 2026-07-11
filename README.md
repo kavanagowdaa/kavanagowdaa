@@ -1,124 +1,173 @@
 <h1 align="center">Hi 👋, I'm Kavana B A</h1>
-<h3 align="center">AI & ML Engineer | Software Developer | Full-Stack Developer</h3>
+
+<h3 align="center">
+AI & ML Engineer | Software Developer | Full-Stack Developer
+</h3>
 
 <p align="center">
-Building AI-powered applications, Full-Stack solutions, Android apps, and Big Data projects.
+Passionate about building AI-powered applications, scalable software systems, and solving real-world problems through technology.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML) at Presidency University
-- 💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development
-- 🌱 Currently strengthening my Data Structures & Algorithms skills through LeetCode
-- 🔬 Presented research on **Pomegranate Disease Detection Using YOLOv12** at **ICECIT 2025**
-- 🚀 Interested in AI, Computer Vision, Reinforcement Learning, Full-Stack Development, and Big Data
-- 🎯 Currently preparing for Software Engineer and AI/ML Engineer roles
+- 🎓 B.Tech in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** at **Presidency University**
+- 💡 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, Android Development, and Big Data
+- 📚 Currently strengthening my **Data Structures & Algorithms** skills through LeetCode
+- 🔬 Research Presenter at **ICECIT 2025** for **Pomegranate Disease Detection Using YOLOv12**
+- 🚀 Seeking **Software Engineer** and **AI/ML Engineer** opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 ### Programming Languages
 
-- Python
-- Java
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
+</p>
 
 ### AI & Machine Learning
 
-- PyTorch
-- TensorFlow
-- Hugging Face
-- OpenCV
-- YOLO
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
 - Reinforcement Learning
-- NLP
+- Large Language Models (LLMs)
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
 ### Web Development
 
-- React.js
-- Node.js
-- Express.js
-- Flask
-- HTML5
-- CSS3
-
-### Databases
-
-- MongoDB
-- SQLite
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask,mongodb" />
+</p>
 
 ### Big Data
 
 - Apache Spark
 - PySpark
 
-### Tools
+### Tools & Platforms
 
-- Git
-- GitHub
-- Android Studio
-- VS Code
-- Google Colab
-- Jupyter Notebook
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📄 PaperIQ
-AI-powered research paper analyzer with document summarization, semantic search, question answering, and NLP.
+## 📄 PaperIQ – AI-Powered Research Insight Analyzer
 
-### 🌿 Pomegranate Disease Detection Using YOLOv12
-Deep learning-based disease detection system using YOLOv12 for accurate identification of pomegranate diseases.
+An AI-powered research assistant that analyzes research papers using NLP and transformer-based language models for document summarization, semantic search, and question answering.
 
-### 🤖 Reinforcement Learning Maze
-Q-Learning agent with real-time Pygame visualization and procedural maze generation.
-
-### 🎬 Distributed Movie Recommendation System
-Apache Spark and ALS-based scalable movie recommendation system using the MovieLens dataset.
-
-### 📱 ZenZ Diary
-Android diary application with PIN authentication, mood tracking, calendar view, and SQLite.
-
-### 🛒 Smart Grocery List Generator
-AI-powered grocery list and recipe generator using Google Gemini Vision.
-
-### 🎒 Smart Campus Lost & Found Portal
-Full-stack MERN application with authentication, smart item matching, image upload, and MongoDB Atlas.
+**Tech Stack:** Python • Flask • Hugging Face • Sentence Transformers • NLP
 
 ---
 
-## 🏆 Achievements
+## 🌿 Pomegranate Disease Detection Using YOLOv12
 
-- 📖 Research presented at **ICECIT 2025**
-- 🎓 Completed **Infosys Springboard Virtual Internship**
-- 🎓 Completed **HMT Machine Tools Internship**
-- 📚 NPTEL Certified in:
-  - Large Language Models
-  - Mathematical Foundations for Machine Learning
+A deep learning-based computer vision system for detecting pomegranate diseases using YOLOv12 with comparative performance evaluation across multiple model variants.
+
+**Tech Stack:** Python • PyTorch • YOLOv12 • OpenCV
 
 ---
 
-## 📈 Currently Learning
+## 🎒 Smart Campus Lost & Found Portal
+
+A full-stack MERN application that enables users to report lost and found items with secure authentication, smart item matching, image uploads, and MongoDB Atlas integration.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB
+
+---
+
+## 🤖 Reinforcement Learning Maze
+
+A Reinforcement Learning project implementing the Q-Learning algorithm with procedural maze generation and real-time visualization using Pygame.
+
+**Tech Stack:** Python • NumPy • Pygame • Matplotlib
+
+---
+
+## 🎬 Distributed Movie Recommendation System
+
+A scalable recommendation engine built using Apache Spark and the ALS collaborative filtering algorithm on the MovieLens dataset.
+
+**Tech Stack:** Python • Apache Spark • PySpark • Machine Learning
+
+---
+
+## 📱 ZenZ Diary
+
+A secure Android diary application featuring PIN authentication, mood tracking, calendar navigation, and SQLite database integration.
+
+**Tech Stack:** Java • Android Studio • SQLite
+
+---
+
+## 🛒 Smart Grocery List Generator
+
+An AI-powered web application that generates grocery lists and cooking instructions from food images using Google Gemini Vision.
+
+**Tech Stack:** Python • Flask • Gemini API • HTML • CSS • JavaScript
+
+---
+
+# 🏆 Research & Certifications
+
+- 📖 Presented Research Paper at **ICECIT 2025**
+- 🎓 Infosys Springboard AI/ML Virtual Internship
+- 🎓 HMT Machine Tools Technical Internship
+- ☁️ Oracle Cloud Infrastructure – Generative AI Professional
+- 📘 NPTEL – Large Language Models
+- 📘 NPTEL – Mathematical Foundations for Machine Learning
+
+---
+
+# 📚 Currently Learning
 
 - Advanced Data Structures & Algorithms
-- System Design Fundamentals
 - Java Backend Development
+- System Design Fundamentals
 - SQL Optimization
+- Software Engineering Best Practices
 
 ---
 
-## 🔗 Connect With Me
+# 📈 Coding Practice
 
-- GitHub: [kavanagowdaa](https://github.com/kavanagowdaa)
-- LinkedIn: [kavanaba](https://www.linkedin.com/in/kavanaba)
-- LeetCode: [kavana_gowdaa](https://leetcode.com/u/kavana_gowdaa/)
+- 💻 Solving Data Structures & Algorithms problems on **LeetCode**
+- 🚀 Continuously improving problem-solving skills for Software Engineering interviews
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/kavanagowdaa">
+GitHub
+</a> •
+<a href="https://www.linkedin.com/in/kavanaba">
+LinkedIn
+</a> •
+<a href="https://leetcode.com/u/kavana_gowdaa/">
+LeetCode
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+I enjoy building practical software solutions that combine Artificial Intelligence with real-world applications.
+
+</p>
