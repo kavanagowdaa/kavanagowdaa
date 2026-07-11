@@ -115,9 +115,9 @@ Full-stack MERN application with authentication, smart item matching, image uplo
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/kavanagowdaa
-- LinkedIn: https://www.linkedin.com/in/kavanaba
-- LeetCode: https://leetcode.com/u/kavana_gowdaa/
+- GitHub: [kavanagowdaa](https://github.com/kavanagowdaa)
+- LinkedIn: [kavanaba](https://www.linkedin.com/in/kavanaba)
+- LeetCode: [kavana_gowdaa](https://leetcode.com/u/kavana_gowdaa/)
 
 ---
 
