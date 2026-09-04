@@ -1,173 +1,233 @@
-<h1 align="center">Hi 👋, I'm Kavana B A</h1>
+<h1 align="center">
+  Hi 👋, I'm Kavana B A
+</h1>
 
 <h3 align="center">
-AI & ML Engineer | Software Developer | Full-Stack Developer
+  AI & ML Engineer • Software Developer • Problem Solver
 </h3>
 
 <p align="center">
-Passionate about building AI-powered applications, scalable software systems, and solving real-world problems through technology.
+  <a href="https://github.com/kavanagowdaa">
+    <img src="https://img.shields.io/badge/GitHub-kavanagowdaa-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavanaba">
+    <img src="https://img.shields.io/badge/LinkedIn-Kavana%20B%20A-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/kavana_gowdaa/">
+    <img src="https://img.shields.io/badge/LeetCode-kavana__gowdaa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building intelligent systems that turn real-world problems into practical software solutions.</b>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** at **Presidency University**
-- 💡 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, Android Development, and Big Data
-- 📚 Currently strengthening my **Data Structures & Algorithms** skills through LeetCode
-- 🔬 Research Presenter at **ICECIT 2025** for **Pomegranate Disease Detection Using YOLOv12**
-- 🚀 Seeking **Software Engineer** and **AI/ML Engineer** opportunities
+🎓 B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**
+
+🤖 Interested in **Artificial Intelligence, Machine Learning, Computer Vision, NLP, and Software Development**
+
+💻 Building practical applications using **Python and modern AI/ML technologies**
+
+🔬 Research presenter at **ICECIT 2025** for research on **Pomegranate Disease Detection using YOLOv12**
+
+🏆 **1st Place — Chip to Crop, 24-Hour Hackathon 2025**
+
+📚 Currently strengthening **Data Structures & Algorithms, Backend Development, SQL, and Software Engineering**
+
+🚀 Actively looking for opportunities in **AI/ML Engineering and Software Development**
 
 ---
 
-# 🛠️ Technical Skills
+# ⚡ What I Work On
 
-### Programming Languages
+```text
+Artificial Intelligence     ████████████████████
+Machine Learning            ████████████████████
+Computer Vision             ██████████████████
+Natural Language Processing █████████████████
+Python Development           ████████████████████
+Web Development              ████████████████
+Problem Solving              █████████████████
+🧠 Technical Arsenal
+💻 Programming
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,c" /> </p>
+🤖 AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> </p>
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing
+Reinforcement Learning
+Large Language Models
+YOLO-based Object Detection
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask" /> </p>
+🗄️ Databases & Big Data
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
+MySQL
+MongoDB
+Apache Spark
+PySpark
+🛠️ Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" /> </p>
+🚀 Featured Projects
+📄 PaperIQ — AI-Powered Research Insight Analyzer
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
-</p>
+An AI-powered research assistant designed to make research papers easier to understand and explore.
 
-### AI & Machine Learning
+Key Features
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Reinforcement Learning
-- Large Language Models (LLMs)
+📑 PDF, DOCX and TXT document support
+📝 Research paper summarization
+💬 Question answering
+🔎 Information discovery
+🧠 NLP-based document analysis
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+Tech Stack
 
-### Web Development
+Python Flask Hugging Face Sentence Transformers NLP
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask,mongodb" />
-</p>
+🌿 Pomegranate Disease Detection using YOLOv12
 
-### Big Data
+Deep learning-based computer vision system for detecting diseases in pomegranate plants.
 
-- Apache Spark
-- PySpark
+Key Contributions
 
-### Tools & Platforms
+🖼️ Worked with annotated agricultural image datasets
+🤖 Developed a YOLOv12-based disease detection system
+🔬 Compared multiple YOLOv12 variants
+📊 Evaluated model precision, recall and detection performance
+📖 Research presented at ICECIT 2025
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
-</p>
+Tech Stack
 
----
+Python PyTorch YOLOv12 OpenCV
 
-# 🚀 Featured Projects
+🎒 Smart Campus Lost & Found Portal
 
-## 📄 PaperIQ – AI-Powered Research Insight Analyzer
+A web application designed to simplify reporting and finding lost belongings within a campus environment.
 
-An AI-powered research assistant that analyzes research papers using NLP and transformer-based language models for document summarization, semantic search, and question answering.
+Features
 
-**Tech Stack:** Python • Flask • Hugging Face • Sentence Transformers • NLP
+🔐 User authentication
+📦 Lost & found item management
+🖼️ Image uploads
+🔎 Item search
+🌐 Web-based interface
 
----
+Tech Stack
 
-## 🌿 Pomegranate Disease Detection Using YOLOv12
+React Node.js Express.js MongoDB
 
-A deep learning-based computer vision system for detecting pomegranate diseases using YOLOv12 with comparative performance evaluation across multiple model variants.
+🤖 Reinforcement Learning Maze Solver
 
-**Tech Stack:** Python • PyTorch • YOLOv12 • OpenCV
+A Q-Learning based agent that learns to navigate procedurally generated mazes.
 
----
+Highlights
 
-## 🎒 Smart Campus Lost & Found Portal
+🧠 Q-Learning implementation
+🌀 Procedural maze generation
+🎯 Reward-based learning
+📈 Learning visualization
+🎮 Real-time visualization
 
-A full-stack MERN application that enables users to report lost and found items with secure authentication, smart item matching, image uploads, and MongoDB Atlas integration.
+Tech Stack
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB
+Python NumPy Pygame Matplotlib
 
----
+🎬 Distributed Movie Recommendation System
 
-## 🤖 Reinforcement Learning Maze
+A scalable recommendation system using collaborative filtering on the MovieLens dataset.
 
-A Reinforcement Learning project implementing the Q-Learning algorithm with procedural maze generation and real-time visualization using Pygame.
+Highlights
 
-**Tech Stack:** Python • NumPy • Pygame • Matplotlib
+⚡ Apache Spark processing
+🎯 ALS collaborative filtering
+📊 MovieLens dataset
+🔄 Distributed data processing
 
----
+Tech Stack
 
-## 🎬 Distributed Movie Recommendation System
+Python Apache Spark PySpark Machine Learning
 
-A scalable recommendation engine built using Apache Spark and the ALS collaborative filtering algorithm on the MovieLens dataset.
+📱 ZenZ Diary
 
-**Tech Stack:** Python • Apache Spark • PySpark • Machine Learning
+Android diary application focused on private personal journaling and mood tracking.
 
----
+Features
 
-## 📱 ZenZ Diary
+🔐 PIN authentication
+😊 Mood tracking
+📅 Calendar navigation
+💾 SQLite database integration
 
-A secure Android diary application featuring PIN authentication, mood tracking, calendar navigation, and SQLite database integration.
+Tech Stack
 
-**Tech Stack:** Java • Android Studio • SQLite
+Java Android Studio SQLite
 
----
+🏆 Achievements
+Achievement	Details
+🥇 Hackathon	1st Place — Chip to Crop, 24-Hour Hackathon 2025
+🔬 Research	Pomegranate Disease Detection using YOLOv12 — ICECIT 2025
+☁️ Certification	Oracle Cloud Infrastructure — Generative AI Professional
+🐍 Certification	Scaler — Python Programming
+📚 Certification	NPTEL — Large Language Models
+💼 Experience
+🏛️ Indian Institute of Technology (IIT) Kanpur
 
-## 🛒 Smart Grocery List Generator
+Summer Training Program — Generative AI
 
-An AI-powered web application that generates grocery lists and cooking instructions from food images using Google Gemini Vision.
+Jun 2025 – Jul 2025
 
-**Tech Stack:** Python • Flask • Gemini API • HTML • CSS • JavaScript
+Hands-on exposure to Generative AI concepts, modern AI models and practical Python-based applications.
 
----
+🤖 Infosys Springboard
 
-# 🏆 Research & Certifications
+AI/ML Virtual Intern
 
-- 📖 Presented Research Paper at **ICECIT 2025**
-- 🎓 Infosys Springboard AI/ML Virtual Internship
-- 🎓 HMT Machine Tools Technical Internship
-- ☁️ Oracle Cloud Infrastructure – Generative AI Professional
-- 📘 NPTEL – Large Language Models
-- 📘 NPTEL – Mathematical Foundations for Machine Learning
+Aug 2025 – Oct 2025
 
----
+Worked through practical AI/ML concepts including machine learning workflows, model development and deployment concepts.
 
-# 📚 Currently Learning
+⚙️ HMT Machine Tools Ltd
 
-- Advanced Data Structures & Algorithms
-- Java Backend Development
-- System Design Fundamentals
-- SQL Optimization
-- Software Engineering Best Practices
+Technical Intern
 
----
+Jul 2025 – Aug 2025
 
-# 📈 Coding Practice
+Gained exposure to CNC machine tools, industrial automation and AI applications in smart manufacturing.
 
-- 💻 Solving Data Structures & Algorithms problems on **LeetCode**
-- 🚀 Continuously improving problem-solving skills for Software Engineering interviews
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kavanagowdaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanagowdaa&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=kavanagowdaa&theme=tokyonight&hide_border=true" /> </p>
+🧩 Problem Solving
+<p align="center"> <a href="https://leetcode.com/u/kavana_gowdaa/"> <img src="https://img.shields.io/badge/LeetCode-Solving%20DSA%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
 
----
+Currently focused on improving Data Structures & Algorithms, problem-solving, and coding interview skills.
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/kavanagowdaa">
-GitHub
-</a> •
-<a href="https://www.linkedin.com/in/kavanaba">
-LinkedIn
-</a> •
-<a href="https://leetcode.com/u/kavana_gowdaa/">
-LeetCode
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thank you for visiting my profile!
-
-I enjoy building practical software solutions that combine Artificial Intelligence with real-world applications.
-
-</p>
+📚 Currently Learning
+Advanced Data Structures & Algorithms
+            ↓
+      Java Backend Development
+            ↓
+      System Design Fundamentals
+            ↓
+        SQL Optimization
+            ↓
+   Software Engineering Practices
+🎯 2026 Goals
+ Master advanced Data Structures & Algorithms
+ Build production-ready AI applications
+ Strengthen backend development
+ Learn system design
+ Contribute to open-source projects
+ Publish more technical projects
+ Become a stronger AI/ML & Software Engineer
+🌐 Let's Connect
+<p align="center"> <a href="https://github.com/kavanagowdaa"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/kavanaba"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://leetcode.com/u/kavana_gowdaa/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
+<p align="center"> <i>“Build. Learn. Break. Improve. Repeat.”</i> </p> <p align="center"> ⭐ If you find my projects interesting, consider starring the repositories! </p> ```
